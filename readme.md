@@ -65,6 +65,8 @@ Libraries, tools, and open source apps for nutrition tracking.
 - [DietCli](https://github.com/hstsethi/dietcli) - Blazingly fast, commmand line nutrition tracker written in C++.
 - [Waistline](https://github.com/davidhealey/waistline) - Rich Android app for calorie tracking with OpenFoodFacts integration and barcode scanning. CSV and JSON data export.
 
+- [Minbao Feeding Tools](https://github.com/yy520-xx/minbao-feeding-tools) - Web-based feeding tracker for babies with Cow's Milk Protein Allergy (CMPA), featuring ingredient allergen label scanning, solid food introduction logging, and nutrition tracking.
+
 ## Food Databases
 
 Databases and apis that contain nutrition information.
